@@ -1,0 +1,8 @@
+# Instruct Git to ignore the following when tracking files
+
+*.pyc
+__pycache__
+*.egg-info
+.DS_Store
+.idea/
+venv/
